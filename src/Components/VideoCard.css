@@ -1,0 +1,34 @@
+.VideoCard{
+    margin-bottom: 40px;
+    width: 270px;
+}
+
+.VideoCard_thumbnail{
+    height: 140px;
+    width: 205px;
+}
+
+.VideoCard_info{
+    display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
+}
+
+.VideoCard_text{
+    margin-left: 15px;
+}
+
+.VideoCard_text > h4{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.VideoCard_text > p{
+    font-size: 14px;
+    color: gray;
+}
+
+.VideoCard_avatar{
+    height:  30px !important;
+    width:  30px !important;
+}

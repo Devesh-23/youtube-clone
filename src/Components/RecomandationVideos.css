@@ -1,0 +1,16 @@
+.RecomandationVideos{
+    flex: 0.8;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    padding-top: 0;
+}
+
+.RecomandationVideos > h2{
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.RecomandataionVideo_vidoes{
+    display: flex;
+ flex-wrap: wrap;
+}
